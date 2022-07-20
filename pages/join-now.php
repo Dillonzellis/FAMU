@@ -5,45 +5,46 @@
 <!--[if gt IE 8]><!-->
 <html class="no-js">
 <!--<![endif]-->
+
 <head>
-<title>FAMU FCU - Join Now</title>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
-<meta name="description" content="">
-<link rel="shortcut icon" href="../favicon.ico">
+    <title>FAMU FCU - Join Now</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+    <meta name="description" content="">
+    <link rel="shortcut icon" href="../favicon.ico">
 
-<!-- CSS includes //-->
-<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Archivo+Black' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="../css/normalize.css" type="text/css">
-<link rel="stylesheet" href="../css/colorbox-skins/4/colorbox.css" type="text/css">
-<link rel="stylesheet" href="../css/animate.css" type="text/css">
-<link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css">
-<link rel="stylesheet" href="../css/font-awesome/css/font-awesome.min.css" type="text/css">
-<link rel="stylesheet" href="../css/colorbox-skins/4/colorbox.css" type="text/css">
-<link rel="stylesheet" href="../css/helpers.css" type="text/css">
-<link rel="stylesheet" href="../css/component.css" type="text/css">
+    <!-- CSS includes //-->
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Archivo+Black' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="../css/normalize.css" type="text/css">
+    <link rel="stylesheet" href="../css/colorbox-skins/4/colorbox.css" type="text/css">
+    <link rel="stylesheet" href="../css/animate.css" type="text/css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="../css/font-awesome/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="../css/colorbox-skins/4/colorbox.css" type="text/css">
+    <link rel="stylesheet" href="../css/helpers.css" type="text/css">
+    <link rel="stylesheet" href="../css/component.css" type="text/css">
 
-<!-- LayerSlider styles -->
-<link rel="stylesheet" href="../css/layerslider/css/layerslider.css" type="text/css">
+    <!-- LayerSlider styles -->
+    <link rel="stylesheet" href="../css/layerslider/css/layerslider.css" type="text/css">
 
-<link rel="stylesheet" href="../css/colors/1.css" type="text/css" id="site-color">
+    <link rel="stylesheet" href="../css/colors/1.css" type="text/css" id="site-color">
 
-<!-- Remodal styles -->
+    <!-- Remodal styles -->
     <link rel="stylesheet" href="../remodal/dist/remodal.css">
     <link rel="stylesheet" href="../remodal/dist/remodal-default-theme.css">
-<!-- JS includes //-->
-<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries //-->
-<!--[if lt IE 9]>
+    <!-- JS includes //-->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries //-->
+    <!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
-<script src="../js/twitterFetcher_min.js"></script>
+    <script src="../js/twitterFetcher_min.js"></script>
 
-<!--
+    <!--
 	<style>
 	
 		.frame-res{
@@ -59,224 +60,225 @@
 		}
 	</style>
 -->
-	
+
 </head>
 
 <body>
 
-	<!-- Wrapping all content //-->
+    <!-- Wrapping all content //-->
 
 
-	<div id="wrap-all">
+    <div id="wrap-all">
 
-		<!-- Site header start //-->
+        <!-- Site header start //-->
 
-		<header class="site-header" id="site-header">
+        <header class="site-header" id="site-header">
 
-			<?php include '../inc/header.php';?>
+            <?php include '../inc/header.php'; ?>
 
-		</header>
+        </header>
 
-		<!-- Site header end //-->
+        <!-- Site header end //-->
 
-		<!-- Title bar start //-->
+        <!-- Title bar start //-->
 
-		<section class="title-bar bg-img-dark transparent-bg-secondary">
+        <section class="title-bar bg-img-dark transparent-bg-secondary">
 
-			<div class="container">
+            <div class="container">
 
-				<div class="row">
+                <div class="row">
 
-					<div class="col-lg-12">
+                    <div class="col-lg-12">
 
-						<h1>Join Now</h1>
+                        <h1>Join Now</h1>
 
-					</div>
+                    </div>
 
-				</div>
+                </div>
 
-			</div>
+            </div>
 
-		</section>
+        </section>
 
-		<!-- Title bar end //-->
+        <!-- Title bar end //-->
 
-		<!-- Content start //-->
+        <!-- Content start //-->
 
-		<main class="site-main">
+        <main class="site-main">
 
-			<!-- Text start //-->
+            <!-- Text start //-->
 
-			<section class="border-bottom-1">
+            <section class="border-bottom-1">
 
-				<div class="container">
+                <div class="container">
 
-					<div class="row">
-						
-						<div class="col-lg-12 align-center">
+                    <div class="row">
 
-							<h2 class="section-title">how to join</h2>
+                        <div class="col-lg-12 align-center">
 
-						</div>
+                            <h2 class="section-title">how to join</h2>
 
-						<div class="col-lg-12">
-							
-							<ul class="style-1">
+                        </div>
 
-								<li><i class="fa fa-arrow-circle-right primary-color"></i> <strong>Request a membership package.</strong> Contact our Member Services Department to receive our membership package.</li>
+                        <div class="col-lg-12">
 
-								<li><i class="fa fa-arrow-circle-right primary-color"></i> <strong>Provide proof of membership eligibility</strong> (as described above).</li>
+                            <ul class="style-1">
 
-								<li><i class="fa fa-arrow-circle-right primary-color"></i> <strong>Membership fee and minimum deposit.</strong> A one-time <strong>membership fee of $10.00</strong> and a <strong>minimum deposit of $5.00</strong> to open a share (savings) account. Your share (savings) account may be opened with as little as <strong>$15.00</strong>.</li>
+                                <li><i class="fa fa-arrow-circle-right primary-color"></i> <strong>Request a membership package.</strong> Contact our Member Services Department to receive our membership package.</li>
 
-							</ul>
-							
-							<p>To open a share draft (checking account), an additional minimum deposit of <strong>$5.00</strong> is required.</p>
-							
-							<p>If you wish to receive loan services privileges, a minimum pledge of <strong>$5.00</strong> must be maintained in your savings account.</p>
+                                <li><i class="fa fa-arrow-circle-right primary-color"></i> <strong>Provide proof of membership eligibility</strong> (as described above).</li>
 
-						</div>
+                                <li><i class="fa fa-arrow-circle-right primary-color"></i> <strong>Membership fee and minimum deposit.</strong> A one-time <strong>membership fee of $10.00</strong> and a <strong>minimum deposit of $5.00</strong> to open a share (savings) account. Your share (savings) account may be opened with as little as <strong>$15.00</strong>.</li>
 
-					</div>
+                            </ul>
 
-				</div>
+                            <p>To open a share draft (checking account), an additional minimum deposit of <strong>$5.00</strong> is required.</p>
 
-			</section>
+                            <p>If you wish to receive loan services privileges, a minimum pledge of <strong>$5.00</strong> must be maintained in your savings account.</p>
 
-			<!-- Text end //-->
-			
-			<!-- Form start //-->
+                        </div>
 
-			<section class="secondary-bg-lighten align-center">
+                    </div>
 
-				<div class="container">
+                </div>
 
-					<div class="row">
+            </section>
 
-						<div class="col-lg-12">
+            <!-- Text end //-->
 
-							<h2 class="section-title">Membership Application</h2>
+            <!-- Form start //-->
 
-							<p>
-								<!-- form.123formbuilder.com script begins here -->
-<!--								<script type="text/javascript" defer src="https://form.123formbuilder.com/embed/5803235.js" data-role="form" data-default-width="650px"></script>-->
-								<!-- form.123formbuilder.com script ends here -->
-							
-									<iframe src="https://www.loanliner.com/LoanRequest/Presenter/LoanForm?CUID=00904355&LoanFormId=5518998321181155509&ChannelId=4799020706278145602&LocationId=9854675806270194221&IsFramed=T" class="frame-res"/>
-							</p>
-							
-		
+            <section class="secondary-bg-lighten align-center">
 
-						</div>
+                <div class="container">
 
-					</div>
+                    <div class="row">
 
-				</div>
+                        <div class="col-lg-12">
 
-			</section>
+                            <h2 class="section-title">Membership Application</h2>
 
-			<!-- Form end //-->
+                            <p>
+                                <!-- form.123formbuilder.com script begins here -->
+                                <!--								<script type="text/javascript" defer src="https://form.123formbuilder.com/embed/5803235.js" data-role="form" data-default-width="650px"></script>-->
+                                <!-- form.123formbuilder.com script ends here -->
 
-		</main>
+                                <iframe src="https://www.loanliner.com/LoanRequest/Presenter/LoanForm?CUID=00904355&LoanFormId=5518998321181155509&ChannelId=4799020706278145602&LocationId=9854675806270194221&IsFramed=T" class="frame-res" />
+                            </p>
 
-		<!-- Content end //-->
 
-		<!-- Site footer start //-->
 
-		<footer class="site-footer">
+                        </div>
 
-			<?php include '../inc/footer.php';?>
+                    </div>
 
-		</footer>
+                </div>
 
-		<!-- Site footer end //-->
+            </section>
 
-		<!-- Scroll to the top button start //-->
+            <!-- Form end //-->
 
-		<div id="scroll-to-the-top">
+        </main>
 
-			<i class="fa fa-angle-up"></i>
+        <!-- Content end //-->
 
-		</div>
+        <!-- Site footer start //-->
 
-		<!-- Scroll to the top button end //-->
+        <footer class="site-footer">
 
-	</div>
+            <?php include '../inc/footer.php'; ?>
 
-<!-- JS includes //-->
-<script src="../js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-<script src="../js/vendor/jquery-1.11.1.min.js"></script>
-<script src="../js/vendor/bootstrap.min.js"></script>
-<script src="../js/imagesloaded.pkgd.min.js"></script>
-<script src="../js/masonry.pkgd.min.js"></script>
-<script src="../js/less-1.7.4.min.js"></script>
-<script src="../js/jquery.colorbox-min.js"></script>
-<script src="../js/jquery.easing.1.3.js"></script>
-<script src="../js/jquery.rivathemes.js"></script>
-<script src="../js/biss.js"></script>
+        </footer>
 
-<script>
-(function($) {
-	"use strict";
+        <!-- Site footer end //-->
 
-	//
-	// Preload images
-	//
+        <!-- Scroll to the top button start //-->
 
-	$('document').ready(function() {
+        <div id="scroll-to-the-top">
 
-		var $container = $('body'),
-			tweetsTimer;
+            <i class="fa fa-angle-up"></i>
 
-		$container.imagesLoaded( function() {
+        </div>
 
-			$('#team').rivaCarousel({
-				style:'horizontal',
-				navigation:'buttons',
-				navigation_class:'width-100 float-left nav-st-3',
-				button_left_text:'<i class="fa fa-chevron-left"></i>',
-				button_right_text:'<i class="fa fa-chevron-right"></i>',
-				visible:5,
-				selector:'team-member',
-				gutter:30,
-				infinite:0,
-				interval:2000,
-				autostart:0,
-				speed:350,
-				ease: 'easeInBack'
-			});
+        <!-- Scroll to the top button end //-->
 
-			$('#logo-group').rivaLogoGroup({
-				selector:'logo-group-item',
-				padding:40,
-				row:3
-			});
+    </div>
 
-			$('#testimonials').rivaCarousel({
-				style:'horizontal',
-				navigation:'buttons',
-				navigation_class:'width-auto float-left nav-st-3',
-				button_left_text:'<i class="fa fa-chevron-left"></i>',
-				button_right_text:'<i class="fa fa-chevron-right"></i>',
-				visible:2,
-				selector:'testimonials-1-item',
-				gutter:20,
-				infinite:0,
-				interval:2000,
-				autostart:0,
-				speed:600,
-				ease: 'jswing'
-			});
+    <!-- JS includes //-->
+    <script src="../js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    <script src="../js/vendor/jquery-1.11.1.min.js"></script>
+    <script src="../js/vendor/bootstrap.min.js"></script>
+    <script src="../js/imagesloaded.pkgd.min.js"></script>
+    <script src="../js/masonry.pkgd.min.js"></script>
+    <script src="../js/less-1.7.4.min.js"></script>
+    <script src="../js/jquery.colorbox-min.js"></script>
+    <script src="../js/jquery.easing.1.3.js"></script>
+    <script src="../js/jquery.rivathemes.js"></script>
+    <script src="../js/biss.js"></script>
 
-		});
+    <script>
+        (function($) {
+            "use strict";
 
-		clearTimeout(tweetsTimer);
+            //
+            // Preload images
+            //
 
-	});
+            $('document').ready(function() {
 
-})(jQuery);
-</script>
- <?php include '../inc/modals.php';?>
-<script src="../remodal/dist/remodal.js"></script>
+                var $container = $('body'),
+                    tweetsTimer;
+
+                $container.imagesLoaded(function() {
+
+                    $('#team').rivaCarousel({
+                        style: 'horizontal',
+                        navigation: 'buttons',
+                        navigation_class: 'width-100 float-left nav-st-3',
+                        button_left_text: '<i class="fa fa-chevron-left"></i>',
+                        button_right_text: '<i class="fa fa-chevron-right"></i>',
+                        visible: 5,
+                        selector: 'team-member',
+                        gutter: 30,
+                        infinite: 0,
+                        interval: 2000,
+                        autostart: 0,
+                        speed: 350,
+                        ease: 'easeInBack'
+                    });
+
+                    $('#logo-group').rivaLogoGroup({
+                        selector: 'logo-group-item',
+                        padding: 40,
+                        row: 3
+                    });
+
+                    $('#testimonials').rivaCarousel({
+                        style: 'horizontal',
+                        navigation: 'buttons',
+                        navigation_class: 'width-auto float-left nav-st-3',
+                        button_left_text: '<i class="fa fa-chevron-left"></i>',
+                        button_right_text: '<i class="fa fa-chevron-right"></i>',
+                        visible: 2,
+                        selector: 'testimonials-1-item',
+                        gutter: 20,
+                        infinite: 0,
+                        interval: 2000,
+                        autostart: 0,
+                        speed: 600,
+                        ease: 'jswing'
+                    });
+
+                });
+
+                clearTimeout(tweetsTimer);
+
+            });
+
+        })(jQuery);
+    </script>
+    <?php include '../inc/modals.php'; ?>
+    <script src="../remodal/dist/remodal.js"></script>
 </body>
+
 </html>
