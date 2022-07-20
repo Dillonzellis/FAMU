@@ -43,8 +43,18 @@
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
     <script src="../js/twitterFetcher_min.js"></script>
+	
+		<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','//connect.facebook.net/en_US/fbevents.js');
+	
+	fbq('init', '785937914872218');
+	fbq('track', "PageView");</script>
 
-    <!--
+    
 	<style>
 	
 		.frame-res{
@@ -59,7 +69,7 @@
 		
 		}
 	</style>
--->
+
 
 </head>
 
@@ -187,6 +197,7 @@
         <footer class="site-footer">
 
             <?php include '../inc/footer.php'; ?>
+		
 
         </footer>
 
@@ -205,16 +216,21 @@
     </div>
 
     <!-- JS includes //-->
-    <script src="../js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-    <script src="../js/vendor/jquery-1.11.1.min.js"></script>
-    <script src="../js/vendor/bootstrap.min.js"></script>
-    <script src="../js/imagesloaded.pkgd.min.js"></script>
-    <script src="../js/masonry.pkgd.min.js"></script>
-    <script src="../js/less-1.7.4.min.js"></script>
-    <script src="../js/jquery.colorbox-min.js"></script>
-    <script src="../js/jquery.easing.1.3.js"></script>
-    <script src="../js/jquery.rivathemes.js"></script>
-    <script src="../js/biss.js"></script>
+<!-- JS includes //-->
+<script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="js/vendor/bootstrap.min.js"></script>
+<script src="js/imagesloaded.pkgd.min.js"></script>
+<script src="js/masonry.pkgd.min.js"></script>
+<script src="js/less-1.7.4.min.js"></script>
+<script src="js/jquery.colorbox-min.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
+<script src="js/jquery.rivathemes.js"></script>
+<script src="js/layerslider/jquery-easing-1.3.js" type="text/javascript"></script>
+<script src="js/layerslider/jquery-transit-modified.js" type="text/javascript"></script>
+<script src="js/layerslider/layerslider.transitions.js" type="text/javascript"></script>
+<script src="js/layerslider/layerslider.kreaturamedia.jquery.js" type="text/javascript"></script>
+<script src="js/biss.js"></script>
 
     <script>
         (function($) {
@@ -277,6 +293,51 @@
 
         })(jQuery);
     </script>
+	
+	<script>
+(function($) {
+	"use strict";
+
+	//
+	// Preload images
+	//
+
+	$('document').ready(function() {
+
+		var $container = $('body'),
+			tweetsTimer;
+
+		$container.imagesLoaded( function() {
+
+			$('#layerslider').layerSlider({
+				skinsPath               : 'css/layerslider/skins/',
+				skin : 'fullwidth',
+				hoverPrevNext : true,
+				responsive : true,
+				responsiveUnder : 1170,
+				sublayerContainer : 1170
+			});
+			
+			$('#layerslider2').layerSlider({
+				skinsPath               : 'css/layerslider/skins/',
+				skin : 'fullwidth',
+				firstLayer: 2,
+				thumbnailNavigation : 'hover',
+				hoverPrevNext : true,
+				responsive : true,
+				responsiveUnder : 1170,
+				sublayerContainer : 1170
+			});
+
+
+		});
+
+		clearTimeout(tweetsTimer);
+
+	});
+
+})(jQuery);
+</script>
     <?php include '../inc/modals.php'; ?>
     <script src="../remodal/dist/remodal.js"></script>
 </body>
